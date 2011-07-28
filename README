@@ -20,6 +20,8 @@ Quickstart
     $ git push
 5) That's it, you can now checkout your application at:
     http://mediawiki-$yourlogin.rhcloud.com
+6) Default Admin Username: Admin
+   Default Password: OpenShiftAdmin
 
 Updates
 =======
